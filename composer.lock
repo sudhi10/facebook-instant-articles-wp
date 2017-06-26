@@ -39,16 +39,16 @@
         },
         {
             "name": "facebook/facebook-instant-articles-sdk-extensions-in-php",
-            "version": "v0.1.1",
+            "version": "v0.1.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/facebook/facebook-instant-articles-sdk-extensions-in-php.git",
-                "reference": "64be7ffc20bd3e828acf26f7599fd031f9d56765"
+                "reference": "bd0ad1d308c458c5bc93d6421137f8d6209d270a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/facebook/facebook-instant-articles-sdk-extensions-in-php/zipball/64be7ffc20bd3e828acf26f7599fd031f9d56765",
-                "reference": "64be7ffc20bd3e828acf26f7599fd031f9d56765",
+                "url": "https://api.github.com/repos/facebook/facebook-instant-articles-sdk-extensions-in-php/zipball/bd0ad1d308c458c5bc93d6421137f8d6209d270a",
+                "reference": "bd0ad1d308c458c5bc93d6421137f8d6209d270a",
                 "shasum": ""
             },
             "require": {
@@ -85,7 +85,7 @@
                 "instantarticles",
                 "sdk"
             ],
-            "time": "2017-06-26 17:58:59"
+            "time": "2017-06-26 18:39:14"
         },
         {
             "name": "facebook/facebook-instant-articles-sdk-php",
